@@ -1,0 +1,64 @@
+h1 {
+	font-family: 'Noto Serif Disp', 'Playfair Display', serif;
+	font-weight: bold;
+	font-size: 27pt;
+	font-kerning: normal;
+	font-variant-ligatures: no-contextual;
+	font-variant-numeric: lining-nums;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Noto Serif', 'Lato', sans-serif;
+	font-weight: bold;
+	font-kerning: auto;
+	font-variant-ligatures: contextual;
+}
+
+h3 {
+	font-family: 'Noto Serif', 'Lato', sans-serif;
+	font-weight: bold;
+	font-kerning: auto;
+	font-variant-ligatures: contextual;
+}
+
+h4 {
+	font-family: 'Noto Serif', 'Lato', sans-serif;
+	font-weight: bold;
+	font-kerning: auto;
+	font-variant-ligatures: contextual;
+}
+
+h5 {
+	font-family: 'Noto Serif', 'Lato', sans-serif;
+	font-weight: bold;
+	font-kerning: auto;
+	font-variant-ligatures: contextual;
+}
+
+h6 {
+	font-family: 'Noto Serif', 'Lato', sans-serif;
+	font-weight: bold;
+	font-kerning: auto;
+	font-variant-ligatures: contextual;
+}
+
+body {
+	font-family: 'Noto Sans', sans-serif;
+	font-kerning: auto;
+	font-variant-ligatures: contextual;
+	font-size: 11pt;
+	font-weight: 350;
+	font-variant-numeric: oldstyle-nums;	
+}
+
+code {
+	font-family: 'Noto Mono', 'Roboto Mono', monospace;
+	font-size: 11pt;
+}
+
+pre code {
+	font-family: "Fira Code";
+	font-variant-ligatures: contextual;
+	font-size: 11pt;
+}
